@@ -1,0 +1,6 @@
+{
+    "name": "DrUUID",
+    "description": "DrUUID is an implementation for PHP5 of---and associated API for---the data format described in RFC 4122",
+    "license": "MIT",
+    "version": "20140906"
+}
